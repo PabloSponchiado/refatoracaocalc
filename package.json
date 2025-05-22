@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pablo Sponchiado",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.8.3"
